@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto all judges, jurors, witnesses and seamen, or any other who have been, are, or may be exercised in making laws against the innocent, or in trying, judging, or carrying-out of their native country such innocent persons as in conscience towards God cannot stoop to the wills of men, in conforming to their laws made against the witness of God in all clean conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95813</idno>
+            <idno type="STC">Wing U98</idno>
+            <idno type="STC">ESTC R224304</idno>
+            <idno type="EEBO-CITATION">47683517</idno>
+            <idno type="OCLC">ocm 47683517</idno>
+            <idno type="VID">172975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172975)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto all judges, jurors, witnesses and seamen, or any other who have been, are, or may be exercised in making laws against the innocent, or in trying, judging, or carrying-out of their native country such innocent persons as in conscience towards God cannot stoop to the wills of men, in conforming to their laws made against the witness of God in all clean conscience.</title>
+                  <author>May, Thomas, fl. 1664.</author>
+                  <author>Kirkby, William, fl. 1664.</author>
+                  <author>Lloyd, John, fl. 1665.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd. ed.).</note>
+                  <note>Variously signed: (first part) William Kirkby, (second part) Thomas May, (third part) John Lloyd, Thomas Hughes, Thomas Moody [and 5 others]</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:172975:1"/>
+            <head>Unto all Judges, Jurors, Witneſſes, and Seamen, or any other who have been, are,
+or may be exerciſed in making Laws againſt the Innocent, or in trying, judging, or carrying-out of their Native
+Country ſuch Innocent perſons as in conſcience towards God cannot ſtoop to the wills of men, in conforming to their
+Laws made againſt the Witneſs of God in all clean Conſciences.</head>
+            <p>BE it known that the Day of God's Anger is come upon you, wherein his Fury is come into his Face; and that it is not now a time for
+you to do as your Fathers have done, even to make you merry, and ſport your ſelves over the Life of God in your ſelves and others: for
+lo, the Lord God of infinite Love and Long-ſuffering, is at laſt ariſen in the might of his Power, and in the ſtrength of his Judgments,
+and will cleanſe the Land of Evil-doers, yea his Curſe is gone forth and his Plagues are even at the door, to ſweep the Earth of, and
+make it free from Oppreſſors: In the midſt of which Judgments he will remember Mercy, and ſave his Afflicted People, even thoſe upon whom
+you have not had mercy, but made their Bodies as dung for the Earth, and would have had their Soul to have bowed unto your perverſe wills.
+But as for you, even you that have ſpoiled his People, and preyed upon his Heritage, <hi>Your Carcaſſes ſhall be as dung, and your Strength as thread
+which the fire hath ſcorched;</hi> yea, <hi>and your Life ſhall be an Abhorrence to the very Children of the next Generation, and a Loathing to the wiſe-hearted
+thereof.</hi> And to the end you may take notice, how fear ſurprizeth the hindermoſt of you, Take the two following Certificates, as a Teſtimony
+even againſt your ſelves, And be aſſured, <hi>that that Fire which is kindled in your Borders, ſhall not go out or be extinct till it hath waſted you, and left
+you neither Son nor Nephew to ſit in your Seat of Rule and Judgment, But that ſhall be given to others more righteous than you, and the Seed in the Op<g ref="char:EOLhyphen"/>preſſed
+ſhall poſſeſs the Gates of their Enemies:</hi> Then ſhall the Earth yeeld its ſtrength, and the Heavens ſhall bleſs the Inhabitants thereof with
+many bleſſings which are now withheld by reaſon of your Abominations.</p>
+            <p>Furthermore, The intent of the Publication hereof, is, That you may take notice how you are overtaken in your Enterprizes; And alſo,
+that if you, or any of you, are, or may for the future be ſo hardy, as to proceed either to judge and ſentence, or when ſentenced, to carry the
+Innocent, theſe two Teſtimonies of God's righteous Judgements in the Hearts, as given under the Hands of the Maſter of one, and the
+Company of another Ship, may reſt as an Aggravation of your Wickedneſſes, and as a twofold Teſtimony in Judgment againſt you.</p>
+            <closer>
+               <dateline>Written <date>the 17th of the 11th month, 1664.</date>
+               </dateline>
+               <signed>WILLIAM KIRKBY.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <p>VVHereas there was ſeven men, called <hi>Quakers,</hi> brought on board my Ship, called the <hi>Anne of London,</hi>
+by <hi>William Edmunds</hi> Goaler of <hi>Hartford,</hi> (viz.) <hi>Nicholas Lucas, Henry Feaſt, Henry Marſhal, Francis
+Prior, John Blendal, Jeremiah Herne,</hi> and <hi>Samuel Traherne;</hi> All which have continued waiting upon my
+Ship from <hi>London</hi> to <hi>Deal,</hi> from the fourteenth of <hi>September</hi> laſt until this day; [And I ſeeing Providence
+hath much croſſed me hitherto, whereby I perceive the Hand of the Lord is againſt me, that I dare not
+proceed on my Voyage to carry them, they being <hi>Innocent Perſons,</hi> and <hi>no Crime ſignified againſt them worthy
+of Baniſhment</hi>] and that there is a Law in force, That <hi>no Engliſh-man ſhall be carried out of his Native Countrey
+againſt his will:</hi> And alſo my Men do refuſe to go the Voyage if I carry them, which will be much to my
+hindrance, Men being ſcarce by reaſon of the long continued Preſs: For theſe Reaſons, and many more, I
+will not carry them. Theſe are therefore to certifie any perſon or perſons that ſhall queſtion them, or any
+of them, <hi>that they did not make an eſcape,</hi> but I put them on Shore again to go whither they pleaſed. This
+is certified under my own hand the tenth day of <hi>November,</hi> 1664.</p>
+            <closer>
+               <signed>Witneſs hereunto,
+<list>
+                     <item>John Clements,</item>
+                     <item>Maſter-Mate.</item>
+                     <item>John Bancks.</item>
+                     <item>Humfrey Bidleſtone.</item>
+                     <item>Thomas Holyman.</item>
+                     <item>THOMAS MAY.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <p>THeſe are to certifie all and every perſon, unto whom this preſent Writing may or ſhall come; That
+there was three perſons, called <hi>Quakers, (viz.) Cannanuel Brittaine, Bartholomew Crooker,</hi> and <hi>Lewis
+Rogers,</hi> brought on board our Ship, called the <hi>Mary Fortune of Briſtol,</hi> the ſixteenth of <hi>December,</hi> and conti<g ref="char:EOLhyphen"/>nued
+waiting on our Ship until the 23d of the ſame month; then there came a Stay for all Ships, ſo we put
+them on ſhoar again, and on the 31 of <hi>December,</hi> we received a Paſs from his Royal Highneſs the Duke
+of <hi>York,</hi> to proceed on our Voyage; and then they were brought on our Ship again by <hi>John Toogood,</hi> Water-Baily,
+and hath continued on board our Ship unto this preſent day; And now by reaſon of the long-con<g ref="char:EOLhyphen"/>tinued
+Preſs, we could in no-wiſe deny the taking of them on board, but now going to depart, <hi>their cry,
+and the cry of their Families and Friends are entred into the ears of the Lord, and he hath ſmitten us, even unto the very
+heart, ſaying,</hi> Curſed is he that parteth Man and Wife: <hi>And moreover, they that oppreſseth his people, his Plagues
+ſhall follow them wherſoever they go; and aſſuredly we do in part partake of them already, for our Conſciences will in no<g ref="char:EOLhyphen"/>wiſe
+let us reſt nor be in quiet, for the Lord hath ſmitten us with a terrible fear, ſo that we can in no-wiſe proceed to carry
+them.</hi> And moreover, we do wholly believe, that our moſt gracious Soveraign doth not in the leaſt intend
+to deſtroy his Subjects, becauſe he hath not made void that Law of the Nation, which ſaith, That
+no <hi>Engliſh-man</hi> ſhal be carried out of his Native Country againſt his will; and he or they that doth ſo carry
+them, ſhall forfeit great penalties. And further, we know that there is a Law in the <hi>Barbadoes,</hi> That whom<g ref="char:EOLhyphen"/>ſoever
+doth bring any perſon or perſons unto the aforeſaid Iſland againſt their will, and not being bound
+by Indenture, ſhall be under ſuch penalties as the Law doth inflict upon them, and alſo be enforced to
+bring them back unto their habitation again. And we all know that they are <hi>Innocent perſons,</hi> and do de<g ref="char:EOLhyphen"/>ſire
+to walk in the fear of the Lord, and that they are put on-bord our Ship againſt their wills; neither
+are they bound by any Indenture, nor hath any one agreed for their Paſſage: And we find that our Maſter
+hath no Order under any ones hand to ſave him &amp; us from coming under ſuch penalties, that the Law may
+inflict upon us for carrying of them in this nature. For theſe Reaſons, and many more, we have put them
+on ſhore; not that they have made an eſcape, but that we ſet them at liberty to go whither they will: As
+witneſs our Hands the 7th of <hi>January,</hi> 1664-65.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Lloyd,</item>
+                     <item>Thomas Hughes,</item>
+                     <item>Thomas Moody,</item>
+                     <item>Richard Love,</item>
+                     <item>William Smith,</item>
+                     <item>Thomas Sanders,</item>
+                     <item>Philip Philips,</item>
+                     <item>William Jones his Mark. W J.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
